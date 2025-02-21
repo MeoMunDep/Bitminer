@@ -44,7 +44,7 @@ To get started with the bot, follow these steps:
 }
 ```
 
-### 2. `datas.txt` 🗂️ - Token, go to the game, open devtool, wait the game load and then verify the captcha, and you got it in network tab, you will 
+### 2. `datas.txt` 🗂️ - Get token from here > [Link](https://t.me/KeoAirDropFreeNee/1453)
 
 ```txt
 ey...
