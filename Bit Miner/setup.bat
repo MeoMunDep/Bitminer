@@ -1,5 +1,5 @@
 @echo off
-title Bitminer Bot
+title Bitminer Bot by @MeoMunDep
 color 0A
 
 cd ..
@@ -14,7 +14,7 @@ if exist node_modules (
 :MENU
 cls
 echo =================================================================
-echo    Bitminer BOT SETUP AND RUN SCRIPT
+echo    Bitminer BOT SETUP AND RUN SCRIPT by @MeoMunDep
 echo =================================================================
 echo.
 echo Current directory: %CD%
@@ -93,7 +93,7 @@ if exist "..\node_modules" (
 ) else (
     echo Using node_modules from current directory
 )
-cd "bit miner" && node 1
+node MeoMunDep
 pause
 goto MENU
 
